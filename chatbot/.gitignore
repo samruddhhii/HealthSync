@@ -1,0 +1,7 @@
+venv
+.env
+.ipynb_checkpoints
+.idea
+screens
+static
+templates
